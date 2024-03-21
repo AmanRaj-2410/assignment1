@@ -1,5 +1,3 @@
-
-
 use std::collections::HashMap;
 use std::fs::{self, File};
 use std::io::{self, Write};
@@ -96,7 +94,6 @@ fn main() {
             email: email.clone(),
         };
 
-        // Insert into the HashMap
         employee_map.insert(emp_id, employee);
     }
 
