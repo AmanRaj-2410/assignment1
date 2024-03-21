@@ -1,0 +1,3 @@
+EmpId~#~EmpName~#~DeptTitle~#~MobileNo~#~Email~#~SalStatus~#~Leave
+786~#~Jai~#~Sales & Marketing~#~9898989898~#~Jai@gmail.com~#~Credited~#~false
+420~#~Veer~#~Development~#~9797979797~#~Veer@gmail.com~#~Not Credited~#~false
